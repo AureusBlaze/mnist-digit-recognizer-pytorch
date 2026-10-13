@@ -1,0 +1,21 @@
+# Python byte-code
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Raw dataset folder (downloadable automatically via torchvision)
+data/
+
+# IDE & Editor files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
